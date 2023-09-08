@@ -1,4 +1,4 @@
-package OOP;
+package OOP.objectWithoutMethod;
 
 public class EmployeeSheet {
     public static void main(String[] args) {

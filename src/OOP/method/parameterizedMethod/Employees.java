@@ -1,4 +1,4 @@
-package OOP.method;
+package OOP.method.parameterizedMethod;
 
 public class Employees {
     int id, phone;

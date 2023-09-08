@@ -1,4 +1,6 @@
-package OOP.method;
+package OOP.method.parameterizedMethod;
+
+import OOP.method.parameterizedMethod.Employees;
 
 public class MethodWithoutParameter {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-package OOP.method;
+package OOP.method.constructor;
+
 
 public class ConstructorMethod {
 
