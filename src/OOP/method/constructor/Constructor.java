@@ -5,7 +5,7 @@ public class Constructor {
     String name, gender;
 
 
-    Constructor(int i, String n, String g, int ph){
+     Constructor(int i, String n, String g, int ph){
         id = i;
         name = n;
         gender = g;
